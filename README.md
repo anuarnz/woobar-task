@@ -1,4 +1,4 @@
-# woobar-task
+# woobar-task.github.io
 the problem is not solved
 1. При нажатии на кнопку количество комнат, не меняется контент справа.
 2. При нажатии на кнопку количество комнат, площадь(button) не inset box-shadow.
